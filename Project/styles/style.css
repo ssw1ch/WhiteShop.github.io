@@ -1,0 +1,23 @@
+.rounder-img {
+    width: 55%;
+    border-radius: 90%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    padding: 0.2em;
+    margin-bottom: 3em;
+}
+.lol {
+    font-size: 50px;
+}
+.list-container {
+float: right;
+width: 1170px;
+max-width: 100%;
+}
+.o4ko {
+    padding: 50px;
+    float: left;
+    width: 700px ;
+}
+.doxu {
+    color: black;
+}
